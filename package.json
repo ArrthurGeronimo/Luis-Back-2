@@ -15,7 +15,7 @@
   "dependencies": {
     "aws-sdk": "latest",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongoose": "^5.4.19",
     "bcrypt": "^3.0.6",
     "passport": "^0.4.0",
